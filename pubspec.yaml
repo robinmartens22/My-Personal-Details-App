@@ -1,0 +1,41 @@
+name: mi_card
+description: A new Flutter application.
+
+
+version: 1.0.0+1
+
+
+dependencies:
+
+  flutter:
+    sdk: flutter
+  url_launcher:
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+
+
+flutter:
+
+
+  uses-material-design: true
+
+
+  assets:
+    - images/Robin.jpg.jpg
+
+  fonts:
+  - family: Pacifico
+    fonts:
+    - asset: fonts/Pacifico-Regular.ttf
+
+  - family: SourceSansPro
+    fonts:
+    - asset: fonts/SourceSansPro-Regular.ttf
+
